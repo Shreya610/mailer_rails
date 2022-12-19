@@ -1,4 +1,4 @@
-class ShippingConfirmationMailer < ApplicationMaile
+class ShippingConfirmationMailer < ApplicationMailer
   default from:"dreamcover2023@gmail.com'
 
   def shipping_confirmation_email

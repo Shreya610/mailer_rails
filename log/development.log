@@ -1,0 +1,22 @@
+Started GET "/" for 127.0.0.1 at 2022-12-16 12:00:42 +0530
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/shreyajoshi/.rvm/gems/ruby-2.7.3/gems/railties-7.0.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/shreyajoshi/.rvm/gems/ruby-2.7.3/gems/railties-7.0.4/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.5ms | Allocations: 773)
+Completed 200 OK in 10ms (Views: 5.1ms | ActiveRecord: 0.0ms | Allocations: 6754)
+
+
+Started GET "/" for 127.0.0.1 at 2022-12-16 12:00:45 +0530
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/shreyajoshi/.rvm/gems/ruby-2.7.3/gems/railties-7.0.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/shreyajoshi/.rvm/gems/ruby-2.7.3/gems/railties-7.0.4/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.4ms | Allocations: 451)
+Completed 200 OK in 1ms (Views: 1.0ms | ActiveRecord: 0.0ms | Allocations: 1179)
+
+
+[ActionDispatch::HostAuthorization::DefaultResponseApp] Blocked host: admin.lvh.me
+Started GET "/" for 127.0.0.1 at 2022-12-16 14:08:36 +0530
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/shreyajoshi/.rvm/gems/ruby-2.7.3/gems/railties-7.0.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/shreyajoshi/.rvm/gems/ruby-2.7.3/gems/railties-7.0.4/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.3ms | Allocations: 665)
+Completed 200 OK in 7ms (Views: 3.1ms | ActiveRecord: 0.0ms | Allocations: 5441)
+
+

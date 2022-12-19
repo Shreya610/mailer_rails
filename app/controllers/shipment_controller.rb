@@ -1,5 +1,5 @@
 class ShipmentController < ApplicationController
-  def create
+  def index
     @shipment = Shipment.new(shipment params)
     @user = user. find by(id: shipment params [:user id])
 
